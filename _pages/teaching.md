@@ -2,11 +2,13 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description:
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+**2023-2024:** Teaching Assistant (TA) for the Electrical Engineering final year bachelor project [B-KUL-H01Q6C](https://onderwijsaanbod.kuleuven.be/syllabi/n/H01Q6CN.htm#activetab=doelstellingen_idp1586400).
 
-Organize your courses by years, topics, or universities, however you like!
+**2022-2023:** Teaching Assistant (TA) for the Electrical Engineering final year bachelor project [B-KUL-H01Q6C](https://onderwijsaanbod.kuleuven.be/syllabi/n/H01Q6CN.htm#activetab=doelstellingen_idp1586400).
+
+**2021-2022:** Teaching Assistant (TA) for the Electrical Engineering final year bachelor project [B-KUL-H01Q6C](https://onderwijsaanbod.kuleuven.be/syllabi/n/H01Q6CN.htm#activetab=doelstellingen_idp1586400).

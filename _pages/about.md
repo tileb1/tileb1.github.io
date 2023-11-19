@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate at <a href='https://www.esat.kuleuven.be/psi'>KU Leuven</a> in ML/CV.
+subtitle: PhD Candidate at <a href='https://www.kuleuven.be/english/kuleuven/index.html'>KU Leuven</a> in ML/CV.
 
 profile:
   align: right
@@ -19,7 +19,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hey there, welcome to my website! I'm a PhD candidate in Machine Learning & Computer Vision advised by [Prof. Tinne Tuytelaars](https://www.esat.kuleuven.be/psi/TT). Before that, I obtained my master from [EPFL](https://www.epfl.ch/en/) with a focus on machine learning. My primary research interests include **self-supervised** representation learning and **multi-modal** learning (vision-language).
+Hey there, welcome to my website! I'm a PhD candidate in Machine Learning & Computer Vision at the [ESAT-PSI](https://www.esat.kuleuven.be/psi) lab advised by [Prof. Tinne Tuytelaars](https://www.esat.kuleuven.be/psi/TT). 
+
+Before that, I obtained my master from [EPFL](https://www.epfl.ch/en/) with a focus on machine learning where I also conducted research at the [CVLab](https://www.epfl.ch/labs/cvlab/) with [Prof. Pascal Fua](https://people.epfl.ch/pascal.fua/bio?lang=en).
+
+My primary research interests include **self-supervised** representation learning and **multi-modal** learning (vision-language).
 
 Outside my PhD, I enjoy traveling and skiing.
 
