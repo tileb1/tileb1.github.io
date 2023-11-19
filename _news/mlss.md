@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be attending the Machine Learning Summer School ([MLSS](http://mlss.cc/)) in Krakow, Poland.
+I am attending the Machine Learning Summer School ([MLSS](http://mlss.cc/)) in Krakow, Poland.
