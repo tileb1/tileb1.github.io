@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: AI Research Scientist at [Meta](https://www.meta.com).
+subtitle: AI Research Scientist at <a href='https://www.meta.com'>Meta</a>.
 
 profile:
   align: right
