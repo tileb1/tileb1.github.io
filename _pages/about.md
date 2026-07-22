@@ -19,9 +19,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hey there, welcome to my website! I'm a PhD candidate in Machine Learning & Computer Vision at the [ESAT-PSI](https://www.esat.kuleuven.be/psi) lab advised by [Prof. Tinne Tuytelaars](https://www.esat.kuleuven.be/psi/TT). 
+Note: this website is not getting updated.
 
-Before that, I obtained my master from [EPFL](https://www.epfl.ch/en/) with a focus on machine learning where I also conducted research at the [CVLab](https://www.epfl.ch/labs/cvlab/) with [Prof. Pascal Fua](https://people.epfl.ch/pascal.fua/bio?lang=en).
+Hey there, welcome to my website! I'm an AI Research Scientist at [Meta](https://www.meta.com) working on modeling techniques for ultra-large-scale neural networks (recommendation systems).
+
+Previously, I was PhD candidate in Machine Learning & Computer Vision at the [ESAT-PSI](https://www.esat.kuleuven.be/psi) lab advised by [Prof. Tinne Tuytelaars](https://www.esat.kuleuven.be/psi/TT). And even before that, I obtained my master from [EPFL](https://www.epfl.ch/en/) with a focus on machine learning where I also conducted research at the [CVLab](https://www.epfl.ch/labs/cvlab/) with [Prof. Pascal Fua](https://people.epfl.ch/pascal.fua/bio?lang=en).
 
 My primary research interests include **self-supervised** representation learning and **multi-modal** learning (vision-language).
 
