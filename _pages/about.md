@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate at <a href='https://www.kuleuven.be/english/kuleuven/index.html'>KU Leuven</a> in ML/CV.
+subtitle: AI Research Scientist at [Meta](https://www.meta.com).
 
 profile:
   align: right
